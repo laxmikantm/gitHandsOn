@@ -21,8 +21,9 @@ bla bla bla
 
 ![bing](http://logok.org/wp-content/uploads/2014/09/Bing_logo-old-1024x768.png)
 
+bla bla bla
 
 ```javascript
 const foo = function(){
   alert("boo");
-}
+}```
