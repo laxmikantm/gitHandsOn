@@ -9,6 +9,9 @@ This is a quick hands on try of Git
 
 *** this is bold ***
 
+# links
+http://github.com -automatic!
+[GitHub](http://github.com)
 
 1. Something
 2. Something else
